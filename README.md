@@ -1,4 +1,4 @@
-<h1 align="center">🎵 Aviax Music Bot 🎵</h1>
+<h1 align="center">🎵 ʍǟɢɨƈ Ӽ ʍʊֆɨƈ 🎵</h1>
 
 <p align="center">
   <img src="https://graph.org/file/27adec8613a38c4103911.jpg" alt="Magic Music Logo" width="600" height="150">
